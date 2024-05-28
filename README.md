@@ -5,17 +5,13 @@
 
 Here are some ideas to get you started:-->
 ▪️ My skills include :
-🔹️Programming Language: C++, Python
-
-🔹️Problem Solving Skills: Data Structure & Algorithms(DSA)
-
-🔹️Web Development: Html, CSS , Javascript
+🔹️Programming Language: C++, Golang, Python
 
 🔹️Framework & Tools : Git , VS Code
 
-🔹️Database : Mysql
+🔹️Database : Mysql, MongoDb
 
 - 🔭 I’m currently working in Tekion Corp.
-- 💬 Ask me about C++, Python, Linux, SQL and FrontEnd Web Development(HTML5, CSS3 and JavaScript + Php)
+- 💬 Ask me about C++, Golang, Python, MongoDb, Redis, AWS Lambda, Linux, SQL
 - 📫 How to reach me: https://www.linkedin.com/in/yuvi20/
 - 😄 Pronouns: She/Her
